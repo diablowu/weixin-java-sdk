@@ -1,0 +1,25 @@
+# class file
+*.class
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+hs_err_pid*
+
+# maven target
+target
+
+#testng output
+test-output
+
+# eclipse config file
+.project
+.classpath
+.settings
+
+#some lines
